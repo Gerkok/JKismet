@@ -22,7 +22,6 @@ package za.co.towerman.jkismet.message;
  * @author espeer
  */
 public enum CryptoType {
-    NONE, 
     UNKNOWN, 
     WEP, 
     LAYER3, 
